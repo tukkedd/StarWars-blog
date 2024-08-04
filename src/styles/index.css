@@ -1,0 +1,13 @@
+.alto-img {
+    height: 400px;
+    width: 400px;
+}
+.line {
+        border-bottom: 2px solid rgb(255, 0, 0);
+        height: 2px;
+        padding: 0;
+        margin: 20px auto 0 auto;
+}
+.alto {
+    height: 100px;
+}
